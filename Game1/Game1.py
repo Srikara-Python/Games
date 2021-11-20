@@ -1,5 +1,5 @@
 '''
-
+Hit and win Game 
 '''
 import sys
 import cfg
