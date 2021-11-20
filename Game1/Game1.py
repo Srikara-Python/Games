@@ -47,7 +47,7 @@ def main():
 
     badtimer = 100
     badtimer1 = 0
-.
+
     running, exitcode = True, False
     clock = pygame.time.Clock()
     while running:
