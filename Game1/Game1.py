@@ -13,7 +13,7 @@ def initGame():
     pygame.init()
     pygame.mixer.init()
     screen = pygame.display.set_mode(cfg.SCREENSIZE)
-    pygame.display.set_caption('Bunnies and Badgers —— Charles的皮卡丘')
+    pygame.display.set_caption('Bunnies and Badgers ')
 
     game_images = {}
     for key, value in cfg.IMAGE_PATHS.items():

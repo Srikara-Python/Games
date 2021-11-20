@@ -1,10 +1,5 @@
 '''
 Function:
-    滑雪小游戏
-作者:
-    Charles
-微信公众号:
-    Charles的皮卡丘
 '''
 import sys
 import cfg
@@ -12,7 +7,7 @@ import pygame
 import random
 
 
-'''滑雪者类'''
+
 class SkierClass(pygame.sprite.Sprite):
     def __init__(self):
         pygame.sprite.Sprite.__init__(self)

@@ -1,10 +1,6 @@
 '''
 Function:
-    拼图小游戏
-作者:
-    Charles
-微信公众号:
-    Charles的皮卡丘
+
 '''
 import os
 import sys
@@ -13,7 +9,6 @@ import random
 import pygame
 
 
-'''判断游戏是否结束'''
 def isGameOver(board, size):
     assert isinstance(size, int)
     num_cells = size * size

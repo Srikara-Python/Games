@@ -1,10 +1,5 @@
 '''
-Function:
-    扫雷小游戏
-Author:
-    Charles
-微信公众号:
-    Charles的皮卡丘
+
 '''
 import cfg
 import sys
@@ -13,7 +8,6 @@ import pygame
 from modules import *
 
 
-'''主函数'''
 def main():
     # 游戏初始化
     pygame.init()
